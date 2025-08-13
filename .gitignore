@@ -17,6 +17,9 @@
 # /wp-*.php
 # /xmlrpc.php
 
+# Disable mu-plugins
+/wp-content/mu-plugins/
+
 # Configuration
 wp-config.php
 
