@@ -50,3 +50,4 @@ wp-config.php
 # uncomment the next line
 #/wp-content/themes
 backup
+wp-content/database/.ht.sqlite
